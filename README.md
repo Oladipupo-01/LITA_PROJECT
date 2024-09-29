@@ -1,2 +1,3 @@
 # LITA_Class_Documentation
-A documentation of first project while learning Data Analysis with the Incubator Hub
+A documentation of my first project while learning Data Analysis with the Incubator Hub
+ 
