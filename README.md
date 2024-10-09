@@ -1,12 +1,19 @@
 # LITA_Class_Documentation
 A documentation of my first project while learning Data Analysis with the Incubator Hub
 
-### Project Title: E-Commerce Sales Analysis 
+### Project Title: Exploring Sales Analysis 
 
-### Project Overview: 
-This Data Analysis project aims to generate insight into the sales performance of the E-commerce project over past year. By analysing the various paramters im the data received we seek to gather enough insight ro make reasonable decisions which then enable us ro tell compelling stories around our data from the insight gotten and to know the best performance from our data. 
+### Project Overview:
+This project aims to collect and analyze data from various regions, stores, and markets to provide actionable insights that will inform business strategies, enhance operational efficiency, and improve customer satisfaction, gaining insights into revenue, units sold, and transaction categories across various regions and stores is critical for driving business strategies and improving overall performance. This project systematically collects and analyzes relevant data to provide actionable insights into sales trends, product performance, and market dynamics over different periods.
+
+### Project Obejective
+- Get familiar with data analysis workflow such as data entry, data validation, text extraction etc
+- learn to clean dirty data
+- create visualization to communicate insights
+  
 ### Data Sources
-The primary source of data used here is Data Sale.csv and this is an open source data that was shared by the instructor.
+- Excel Function 1
+- 
 
 ### Tools Used:
 - Microsoft Excel
@@ -18,13 +25,22 @@ The primary source of data used here is Data Sale.csv and this is an open source
 
 ### Data Cleaning and Preparation 
 In the initial phase of the Data cleaning and preparation, we performed the following action;
-- 1. Handling missing vriabls
+  1. Handling missing variables
   2. Data cleaning and formatting
  
-### Exploratory Data Analysis 
-EDA involved the exploring of the Data to answer some questions about the Data such as;
-- What is the overall sales trend
-- Which product are top sellers
-- What are the products on peak sales
+### Data Analysis
+Data Entry: Data was entered in the most efficient way using '''Form 
+
+Data Validation: This is carried out to help check for data accuracy and consistency
+#### Basic Excel Function
+Here we carried some
+- basic aggregation using formula such as Max, Min, Average, Count.
+- aggregations with conditions such as countif, sumif, averageif etc.
+### Report using Pivot Table
+Here we created report using various parameters such as line of business,region etc
+
+### Data Visualization
+Here we aim to simplify the sales data and identify trend
+
   
  
