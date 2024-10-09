@@ -48,6 +48,9 @@ Here we aim to simplify the sales data and identify trend
 
 ![BAR CHART](https://github.com/user-attachments/assets/255b8476-8c66-4751-b6af-f0234e408490)
 
+![PIE CHART](https://github.com/user-attachments/assets/facee614-180d-4349-b8b9-1c27670937ec)
+
+
 
   
  
