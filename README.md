@@ -39,6 +39,8 @@ Here we carried some
 ### Report using Pivot Table
 Here we created report using various parameters such as line of business,region etc
 
+![Screenshot (17)](https://github.com/user-attachments/assets/99a74621-4411-41b9-873d-255a33f0ab40)
+
 
 
 ### Data Visualization
