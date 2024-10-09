@@ -46,5 +46,8 @@ Here we created report using various parameters such as line of business,region 
 ### Data Visualization
 Here we aim to simplify the sales data and identify trend
 
+![BAR CHART](https://github.com/user-attachments/assets/255b8476-8c66-4751-b6af-f0234e408490)
+
+
   
  
