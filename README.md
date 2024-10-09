@@ -39,6 +39,8 @@ Here we carried some
 ### Report using Pivot Table
 Here we created report using various parameters such as line of business,region etc
 
+https://github.com/Oladipupo-01/LITA_PROJECT/blob/main/Screenshot%20(17).png
+
 ### Data Visualization
 Here we aim to simplify the sales data and identify trend
 
